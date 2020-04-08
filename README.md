@@ -4,7 +4,7 @@ The distributions of input data are very important for learning machines, such a
 
 ## Dome 1：
 We domestrate PRQ quantization process generating five code vectors:
-%%#![image](https://github.com/ZhengdQin/Probability-Density-Rank-based-Quantization/tree/master/demo1/PRQ.pdf)
+
 
 ## Dome 2:
 we compare PRQ with several quantization algorithms on 2-D mixture Gaussian data, and show the corresponding MMD values.
